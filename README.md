@@ -1,6 +1,6 @@
 # 3d个人网站
 
-最终效果：[love.huabyte.com](love.huabyte.com)
+最终效果：
 
 <video autoplay src="https://assets.huabyte.com/blog/image/Tab-1645529042263.webm"></video>
 
